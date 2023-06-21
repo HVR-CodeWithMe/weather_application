@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/weather_application/static/css/main.bd093d6b.css",
+    "main.js": "/weather_application/static/js/main.f132a447.js",
+    "static/js/787.e3670615.chunk.js": "/weather_application/static/js/787.e3670615.chunk.js",
+    "static/media/cloudy.gif": "/weather_application/static/media/cloudy.58e03de7d004edc8ca08.gif",
+    "static/media/fog.mp3": "/weather_application/static/media/fog.dffa754803b7b540303f.mp3",
+    "static/media/snow.mp3": "/weather_application/static/media/snow.8664d40fd194996d30cc.mp3",
+    "static/media/sunny.gif": "/weather_application/static/media/sunny.950426d9ffb02126152a.gif",
+    "static/media/rainy.mp3": "/weather_application/static/media/rainy.58e16a14e1269974807c.mp3",
+    "static/media/sunny.mp3": "/weather_application/static/media/sunny.70b045f0b71a2b8dea09.mp3",
+    "static/media/fog.gif": "/weather_application/static/media/fog.c95e42737ac13af122e6.gif",
+    "static/media/bg_gif.gif": "/weather_application/static/media/bg_gif.03ac6b3fab73712e6f38.gif",
+    "static/media/clouds.mp3": "/weather_application/static/media/clouds.a3ac3f34502de84853df.mp3",
+    "static/media/cloud.gif": "/weather_application/static/media/cloud.a7c6e7a00b6a8e824f7f.gif",
+    "static/media/snow.gif": "/weather_application/static/media/snow.254f12debb632b2eb032.gif",
+    "static/media/tunderstorm.gif": "/weather_application/static/media/tunderstorm.86ed712c37522ba686d5.gif",
+    "static/media/rain.gif": "/weather_application/static/media/rain.b27c0bb53d5e5a8abef5.gif",
+    "static/media/tunder.mp3": "/weather_application/static/media/tunder.bbb76f8809333f6a4294.mp3",
+    "index.html": "/weather_application/index.html",
+    "main.bd093d6b.css.map": "/weather_application/static/css/main.bd093d6b.css.map",
+    "main.f132a447.js.map": "/weather_application/static/js/main.f132a447.js.map",
+    "787.e3670615.chunk.js.map": "/weather_application/static/js/787.e3670615.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd093d6b.css",
+    "static/js/main.f132a447.js"
+  ]
+}
